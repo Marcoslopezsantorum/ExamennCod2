@@ -1,3 +1,7 @@
+
+
 fun main(args: Array<String>) {
-    println("Hello World!")
+    for (numero in Tabla(11).array){
+        println(numero)
+    }
 }

@@ -1,9 +1,9 @@
-class Tabla (sizeArray: Int) {
+class Tabla(sizeArray: Int) {
 
-    val array = Array(sizeArray){ it *6
-    }
-
-
-
+    val array = Array(sizeArray){it*6}
 }
+
+
+
+
 

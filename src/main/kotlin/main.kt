@@ -9,4 +9,5 @@ fun main(args: Array<String>) {
     array.array.forEach {
         println(it)
     }
+    val array2 = Ejer3().list(Ejer2(10, {Random.nextInt(50, 250)}).array)
 }

@@ -1,4 +1,4 @@
-<<<<<<< 3Ejercicio
+3Ejercicio
 import kotlin.random.Random
 
 fun main(args: Array<String>) {
@@ -12,7 +12,7 @@ fun main(args: Array<String>) {
     }
     val array2 = Ejer3().list(Ejer2(10, {Random.nextInt(50, 250)}).array)
 }
-=======
+
 import kotlin.random.Random
 
 fun main(args: Array<String>) {
@@ -25,4 +25,4 @@ fun main(args: Array<String>) {
         println(it)
     }
 }
->>>>>>> master
+ master
